@@ -1,0 +1,10 @@
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\native_tls-1299716d25681960.rmeta: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\mod.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\schannel.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\imp\schannel.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\libnative_tls-1299716d25681960.rlib: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\mod.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\schannel.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\imp\schannel.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\native_tls-1299716d25681960.d: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\mod.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\schannel.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\imp\schannel.rs
+
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\lib.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\mod.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\backend\schannel.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\native-tls-0.1.5\src\imp\schannel.rs:

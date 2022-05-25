@@ -1,0 +1,10 @@
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\crossbeam_queue-f2f768f358aedb57.rmeta: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\err.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\libcrossbeam_queue-f2f768f358aedb57.rlib: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\err.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\crossbeam_queue-f2f768f358aedb57.d: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\err.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\lib.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\array_queue.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\err.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.3\src\seg_queue.rs:

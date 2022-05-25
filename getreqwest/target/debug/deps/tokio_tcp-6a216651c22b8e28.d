@@ -1,0 +1,10 @@
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\tokio_tcp-6a216651c22b8e28.rmeta: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\incoming.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\listener.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\stream.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\libtokio_tcp-6a216651c22b8e28.rlib: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\incoming.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\listener.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\stream.rs
+
+C:\Users\Ricardo D.Monkey\Desktop\INS368T\getreqwest\target\debug\deps\tokio_tcp-6a216651c22b8e28.d: C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\lib.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\incoming.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\listener.rs C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\stream.rs
+
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\lib.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\incoming.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\listener.rs:
+C:\Users\Ricardo\ D.Monkey\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-tcp-0.1.4\src\stream.rs:
